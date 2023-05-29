@@ -15,6 +15,8 @@ Driven by a passion to enhance the lives of college students, GcChat endeavored 
 
 Through GcChat, students would find solace, forge new friendships, and nurture their social skills, knowing that even in the most challenging times, they were not alone. The project carried the hopes and aspirations of a generation yearning for connection, making it more than just a technical endeavor but a powerful force for positive change in the lives of college students everywhere.
 
+![Map](https://github.com/sayashraaj/gcchat-atlas/blob/main/Screenshot%202022-07-02%20at%2011.03.02%20PM%201.png?raw=true)
+
 ## What it does
 The project, GcChat, is a real-time chat application designed to facilitate seamless communication and collaboration among college students. It creates a virtual interactive map of college campuses, integrating chat rooms at specific hotspots where students typically gather. GcChat enables users to connect, chat, and share information in real-time, fostering a sense of community and enhancing the overall college experience. By leveraging the power of web technologies, GcChat aims to bridge the gap between physical separation, particularly during the COVID-19 pandemic, and provide a platform where students can interact, exchange ideas, and build meaningful connections.
 
@@ -28,6 +30,8 @@ For user management tasks, we leveraged the capabilities of MongoDB Atlas. This 
 To facilitate real-time communication between users, we implemented WebSockets, a technology that enables bidirectional and low-latency communication over a single, persistent connection. WebSockets allowed us to establish real-time connections between users, ensuring instant message delivery within the chat rooms. This feature enabled dynamic and interactive conversations, enhancing the sense of community and engagement within GcChat.
 
 By utilizing these technologies, GcChat was built to provide a secure and immersive chat experience. Google Cloud Platform's OAuth and Maps API integration, along with MongoDB Atlas for user management, and WebSockets for real-time communication, formed the foundation of the application, allowing users to connect, interact, and collaborate in an efficient and engaging manner.
+
+![system design](https://github.com/sayashraaj/gcchat-atlas/blob/main/gcchat.drawio.png?raw=true)
 
 ## Challenges we ran into
 During the development of GcChat, we encountered several challenges that tested our skills and pushed us to find innovative solutions. Let me share some of the hurdles we faced along the way:
@@ -76,6 +80,8 @@ Building GcChat provided me with valuable insights into utilizing Google Cloud P
     
 
 Overall, building GcChat with a focus on Google Cloud Platform and MongoDB Atlas provided me with invaluable hands-on experience in working with these technologies. I gained insights into their functionalities, best practices, and how they can be effectively utilized to develop scalable, reliable, and feature-rich applications.
+
+![User feedback](https://github.com/sayashraaj/gcchat-atlas/blob/main/Screenshot%202020-11-20%20at%207.04.07%20PM.png?raw=true)
 
 ## What's next for GcChat
 The future scope for GcChat holds immense potential for further growth and enhancements. Here are some envisionments for the project:
