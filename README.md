@@ -1,4 +1,3 @@
-# gcchat-atlas
 
 ## Inspiration
 In the midst of the COVID-19 pandemic, when college campuses were abruptly closed and students were forced to return home, a sense of longing and isolation swept through the student community. The vibrant atmosphere and camaraderie of campus life were sorely missed, and students yearned for a way to stay connected and bridge the gap between their physical separation.
@@ -15,7 +14,7 @@ Driven by a passion to enhance the lives of college students, GcChat endeavored 
 
 Through GcChat, students would find solace, forge new friendships, and nurture their social skills, knowing that even in the most challenging times, they were not alone. The project carried the hopes and aspirations of a generation yearning for connection, making it more than just a technical endeavor but a powerful force for positive change in the lives of college students everywhere.
 
-![Map](https://github.com/sayashraaj/gcchat-atlas/blob/main/Screenshot%202022-07-02%20at%2011.03.02%20PM%201.png?raw=true)
+![Map](https://github.com/sayashraaj/gcchat-atlas/blob/main/Screenshot%202023-05-29%20232338.png?raw=true)
 
 ## What it does
 The project, GcChat, is a real-time chat application designed to facilitate seamless communication and collaboration among college students. It creates a virtual interactive map of college campuses, integrating chat rooms at specific hotspots where students typically gather. GcChat enables users to connect, chat, and share information in real-time, fostering a sense of community and enhancing the overall college experience. By leveraging the power of web technologies, GcChat aims to bridge the gap between physical separation, particularly during the COVID-19 pandemic, and provide a platform where students can interact, exchange ideas, and build meaningful connections.
@@ -50,6 +49,7 @@ During the development of GcChat, we encountered several challenges that tested 
     
 
 Throughout the development journey, we embraced these challenges as opportunities to learn and grow. By leveraging our technical expertise and collaborating closely as a team, we overcame these obstacles, resulting in the creation of GcChat—a robust, feature-rich, and user-friendly chat application that truly addresses the needs of college students.
+![mongodb atlas](https://github.com/sayashraaj/gcchat-atlas/blob/main/atlas.png?raw=true)
 
 ## Accomplishments that we're proud of
 As the sole developer behind the creation of GcChat, I am immensely proud of several accomplishments achieved throughout the development process. Here are some key milestones that fill me with a sense of pride:
